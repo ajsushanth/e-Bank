@@ -1,12 +1,15 @@
-# e-Bank
-This project is a Spring Boot application built in Java, designed to efficiently manage account details, perform CRUD functionalities and store transaction history. Facilitates seamless interaction using RESTful APIs and tested using Postman.
+# `e-Bank`
 
-RESTful APIs: Facilitates seamless interaction with the application, ensuring smooth data operations.
+- This project is a Spring Boot application built in Java, designed to efficiently manage account details, perform CRUD functionalities and store transaction history. Facilitates seamless interaction using RESTful APIs and tested using Postman.
 
-CRUD Functionalities: Supports Create, Read, Update, and Delete operations for comprehensive data management.
+- RESTful APIs: Facilitates seamless interaction with the application, ensuring smooth data operations.
 
-MySQL Database Integration: Provides a reliable and scalable solution for storing account and transaction data.
+- CRUD Functionalities: Supports Create, Read, Update, and Delete operations for comprehensive data management.
 
-Postman Testing: Ensures the APIs are thoroughly tested for performance and reliability.
+- MySQL Database Integration: Provides a reliable and scalable solution for storing account and transaction data.
 
-Graceful Exception Handling: Enhances system robustness by catching and managing exceptions, ensuring clear and helpful error messages to users and maintaining system stability.
+- Postman Testing: Ensures the APIs are thoroughly tested for performance and reliability.
+
+- Graceful Exception Handling: Enhances system robustness by catching and managing exceptions, ensuring clear and helpful error messages to users and maintaining system stability.
+
+:smile: :rocket: :sparkles:
